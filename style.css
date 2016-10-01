@@ -1,0 +1,30 @@
+html {
+   background-color:  darkgray;
+}
+
+h1 {
+    color: Red;
+    font-family: arial;
+    text-decoration: underline;
+    text-align: center;
+}
+.friends {
+    background-color: lightsalmon;
+
+}
+div p {
+    text-transform: uppercase;
+    text-align: center;
+
+}
+
+img.displayed{
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+    width: 400px;
+}
+
+h3 {
+    text-transform: uppercase;
+}
